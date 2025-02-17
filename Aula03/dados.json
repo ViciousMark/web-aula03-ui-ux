@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Joe Black",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjI2NTE1MjY5OF5BMl5BanBnXkFtZTgwMzQ3OTIwMjE@._V1_.jpg",
+        "cidade": "New York"
+    },
+
+    {
+        "id": 2,
+        "nome": "Jonny Bravo",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjI2NTE1MjY5OF5BMl5BanBnXkFtZTgwMzQ3OTIwMjE@._V1_.jpg",
+        "cidade": "New York"
+    },
+
+    {
+        "id": 3,
+        "nome": "Jeack Crouseu",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMjI2NTE1MjY5OF5BMl5BanBnXkFtZTgwMzQ3OTIwMjE@._V1_.jpg",
+        "cidade": "New York"
+    }
+]
